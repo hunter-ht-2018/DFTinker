@@ -1,0 +1,560 @@
+No.1 File: 
+testdir/linux-4.14.10/arch/powerpc/kernel/signal_32.c
+--first fetch: line 796
+--second fetch: line 850
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/arch/powerpc/kernel/signal_32.c
+--first fetch: line 695
+--second fetch: line 742
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/arch/powerpc/kernel/signal_32.c
+--first fetch: line 1144
+--second fetch: line 1194
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/arch/mips/kernel/traps.c
+--first fetch: line 1106
+--second fetch: line 1139
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/arch/sparc/kernel/signal_32.c
+--first fetch: line 103
+--second fetch: line 110
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/arch/sparc/kernel/signal_32.c
+--first fetch: line 102
+--second fetch: line 110
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/arch/frv/kernel/traps.c
+--first fetch: line 137
+--second fetch: line 146
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/arch/frv/kernel/traps.c
+--first fetch: line 166
+--second fetch: line 172
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/arch/frv/kernel/traps.c
+--first fetch: line 189
+--second fetch: line 195
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/arch/frv/kernel/traps.c
+--first fetch: line 213
+--second fetch: line 219
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/arch/frv/kernel/traps.c
+--first fetch: line 237
+--second fetch: line 243
+-------------------------------
+No.6 File: 
+testdir/linux-4.14.10/arch/frv/kernel/traps.c
+--first fetch: line 261
+--second fetch: line 267
+-------------------------------
+No.7 File: 
+testdir/linux-4.14.10/arch/frv/kernel/traps.c
+--first fetch: line 285
+--second fetch: line 291
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/char/lp.c
+--first fetch: line 320
+--second fetch: line 387
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/isdn/hysdn/hysdn_procconf.c
+--first fetch: line 107
+--second fetch: line 133
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/drivers/isdn/hysdn/hysdn_procconf.c
+--first fetch: line 107
+--second fetch: line 160
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/hid/uhid.c
+--first fetch: line 407
+--second fetch: line 455
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/gpu/drm/radeon/radeon_cs.c
+--first fetch: line 628
+--second fetch: line 649
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/nvdimm/bus.c
+--first fetch: line 942
+--second fetch: line 1025
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/megaraid.c
+--first fetch: line 3443
+--second fetch: line 3467
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/dpt_i2o.c
+--first fetch: line 1734
+--second fetch: line 1843
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/3w-xxxx.c
+--first fetch: line 898
+--second fetch: line 920
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/sg.c
+--first fetch: line 408
+--second fetch: line 421
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/3w-sas.c
+--first fetch: line 739
+--second fetch: line 761
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/3w-9xxx.c
+--first fetch: line 666
+--second fetch: line 688
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/mpt3sas/mpt3sas_ctl.c
+--first fetch: line 2261
+--second fetch: line 2311
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/aacraid/commctrl.c
+--first fetch: line 82
+--second fetch: line 119
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/drivers/scsi/aacraid/commctrl.c
+--first fetch: line 519
+--second fetch: line 537
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/md/md.c
+--first fetch: line 7211
+--second fetch: line 7282
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/md/dm-ioctl.c
+--first fetch: line 1730
+--second fetch: line 1764
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/lustre/lustre/llite/llite_lib.c
+--first fetch: line 2463
+--second fetch: line 2478
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/lustre/lustre/obdclass/linux/linux-module.c
+--first fetch: line 157
+--second fetch: line 191
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/lustre/lnet/libcfs/linux/linux-module.c
+--first fetch: line 127
+--second fetch: line 152
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/rtl8712/rtl871x_ioctl_linux.c
+--first fetch: line 1829
+--second fetch: line 1834
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/platform/chrome/cros_ec_dev.c
+--first fetch: line 175
+--second fetch: line 187
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/vfio/vfio_spapr_eeh.c
+--first fetch: line 55
+--second fetch: line 92
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/acpi/custom_method.c
+--first fetch: line 37
+--second fetch: line 54
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/hwtracing/stm/core.c
+--first fetch: line 566
+--second fetch: line 580
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/vhost/vhost.c
+--first fetch: line 1361
+--second fetch: line 1379
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/drivers/vhost/vhost.c
+--first fetch: line 1361
+--second fetch: line 1396
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/drivers/vhost/vhost.c
+--first fetch: line 1361
+--second fetch: line 1415
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/drivers/vhost/vhost.c
+--first fetch: line 1361
+--second fetch: line 1471
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/drivers/vhost/vhost.c
+--first fetch: line 1361
+--second fetch: line 1487
+-------------------------------
+No.6 File: 
+testdir/linux-4.14.10/drivers/vhost/vhost.c
+--first fetch: line 1361
+--second fetch: line 1506
+-------------------------------
+No.7 File: 
+testdir/linux-4.14.10/drivers/vhost/vhost.c
+--first fetch: line 1361
+--second fetch: line 1531
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/net/hamradio/yam.c
+--first fetch: line 959
+--second fetch: line 995
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/net/tun.c
+--first fetch: line 2271
+--second fetch: line 2312
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/drivers/net/tun.c
+--first fetch: line 2271
+--second fetch: line 2443
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/drivers/net/tun.c
+--first fetch: line 2271
+--second fetch: line 2463
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/drivers/net/tun.c
+--first fetch: line 2271
+--second fetch: line 2482
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/drivers/net/tun.c
+--first fetch: line 2271
+--second fetch: line 2506
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2159
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2257
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2302
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2342
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2365
+-------------------------------
+No.6 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2406
+-------------------------------
+No.7 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2439
+-------------------------------
+No.8 File: 
+testdir/linux-4.14.10/drivers/net/ethernet/chelsio/cxgb3/cxgb3_main.c
+--first fetch: line 2146
+--second fetch: line 2491
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/misc/lkdtm_usercopy.c
+--first fetch: line 227
+--second fetch: line 234
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/drivers/misc/lkdtm_usercopy.c
+--first fetch: line 156
+--second fetch: line 162
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/drivers/misc/lkdtm_usercopy.c
+--first fetch: line 101
+--second fetch: line 108
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/misc/mic/vop/vop_vringh.c
+--first fetch: line 933
+--second fetch: line 943
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/lib/test_kasan.c
+--first fetch: line 429
+--second fetch: line 435
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/block/scsi_ioctl.c
+--first fetch: line 440
+--second fetch: line 466
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/kernel/sched/core.c
+--first fetch: line 4342
+--second fetch: line 4381
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/kernel/events/core.c
+--first fetch: line 9639
+--second fetch: line 9676
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/sound/pci/asihpi/hpioctl.c
+--first fetch: line 131
+--second fetch: line 140
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/sound/oss/swarm_cs4297a.c
+--first fetch: line 1467
+--second fetch: line 1472
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/sound/core/control_compat.c
+--first fetch: line 397
+--second fetch: line 400
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/fs/coda/psdev.c
+--first fetch: line 109
+--second fetch: line 128
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/fs/coda/psdev.c
+--first fetch: line 109
+--second fetch: line 174
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/wireless/wext-core.c
+--first fetch: line 747
+--second fetch: line 809
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/ax25/af_ax25.c
+--first fetch: line 550
+--second fetch: line 645
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/decnet/af_decnet.c
+--first fetch: line 1531
+--second fetch: line 1588
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/sunrpc/sysctl.c
+--first fetch: line 95
+--second fetch: line 102
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/compat.c
+--first fetch: line 138
+--second fetch: line 167
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/ipv6/ipv6_sockglue.c
+--first fetch: line 154
+--second fetch: line 466
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/net/ipv6/ipv6_sockglue.c
+--first fetch: line 154
+--second fetch: line 510
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/net/ipv6/ipv6_sockglue.c
+--first fetch: line 154
+--second fetch: line 632
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/net/ipv6/ipv6_sockglue.c
+--first fetch: line 154
+--second fetch: line 650
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/net/ipv6/ipv6_sockglue.c
+--first fetch: line 154
+--second fetch: line 669
+-------------------------------
+No.6 File: 
+testdir/linux-4.14.10/net/ipv6/ipv6_sockglue.c
+--first fetch: line 154
+--second fetch: line 694
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/tls/tls_main.c
+--first fetch: line 351
+--second fetch: line 379
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 853
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 859
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 863
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 915
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 919
+-------------------------------
+No.6 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 970
+-------------------------------
+No.7 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 1008
+-------------------------------
+No.8 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 627
+--second fetch: line 1035
+-------------------------------
+No.9 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 853
+-------------------------------
+No.10 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 859
+-------------------------------
+No.11 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 863
+-------------------------------
+No.12 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 915
+-------------------------------
+No.13 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 919
+-------------------------------
+No.14 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 970
+-------------------------------
+No.15 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 1008
+-------------------------------
+No.16 File: 
+testdir/linux-4.14.10/net/ipv4/ip_sockglue.c
+--first fetch: line 632
+--second fetch: line 1035
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/ipv4/tcp.c
+--first fetch: line 2997
+--second fetch: line 3046
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/net/ipv4/tcp.c
+--first fetch: line 2997
+--second fetch: line 3064
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/net/ipv4/tcp.c
+--first fetch: line 2997
+--second fetch: line 3083
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/net/ipv4/tcp.c
+--first fetch: line 2997
+--second fetch: line 3093
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/net/ipv4/tcp.c
+--first fetch: line 2997
+--second fetch: line 3129
+-------------------------------
+No.6 File: 
+testdir/linux-4.14.10/net/ipv4/tcp.c
+--first fetch: line 2997
+--second fetch: line 3179
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/core/sock.c
+--first fetch: line 1112
+--second fetch: line 1360
+-------------------------------
+No.2 File: 
+testdir/linux-4.14.10/net/core/sock.c
+--first fetch: line 710
+--second fetch: line 824
+-------------------------------
+No.3 File: 
+testdir/linux-4.14.10/net/core/sock.c
+--first fetch: line 710
+--second fetch: line 923
+-------------------------------
+No.4 File: 
+testdir/linux-4.14.10/net/core/sock.c
+--first fetch: line 710
+--second fetch: line 936
+-------------------------------
+No.5 File: 
+testdir/linux-4.14.10/net/core/sock.c
+--first fetch: line 710
+--second fetch: line 949
+-------------------------------
+No.6 File: 
+testdir/linux-4.14.10/net/core/sock.c
+--first fetch: line 710
+--second fetch: line 962
+-------------------------------

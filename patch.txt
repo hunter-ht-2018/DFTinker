@@ -1,0 +1,56 @@
+//drivers/tty/vt/vt.c
+con_font_set(struct T *op)
+{
+	u8 __user *charmap = op->data;
+
+	get_user(tmp, &charmap[32*i+h-1])
+
+	memdup_user(op->data, size);
+}
+
+//fs/nfsd/nfs4recover.c
+static ssize_t
+cld_pipe_downcall(struct file *filp, const char __user *src, size_t mlen)
+{
+	struct cld_msg __user *cmsg = (struct cld_msg __user *)src;
+
+	copy_from_user(&xid, &cmsg->cm_xid, sizeof(xid))
+
+	copy_from_user(&cup->cu_msg, src, mlen)
+
+}
+
+
+void *memdup_user_nul(const void __user *src, size_t len)
+void *memdup_user(const void __user *src, size_t len)
+
+#define unsafe_get_user(x, ptr, err) 
+#define __copy_in_user(to, from, size)	__copy_user((to), (from), (size))
+extern unsigned long __copy_user_zeroing(void *to, const void __user *from, unsigned long n);
+#define __copy_from_user_inatomic __copy_from_user
+
+static inline long strncpy_from_user(char *dst, const char __user *src, long count)
+extern __must_check long strnlen_user(const char __user *str, long n);
+
+
+char *strndup_user(const char __user *s, long n)
+
+struct filename * getname_flags(const char __user *filename, int flags, int *empty)
+struct filename * getname(const char __user * filename)
+
+
+	get_user(exp1, (T1)src)@p1
+|
+	get_user(exp1, src)@p1	
+|
+	__get_user(exp1, (T1)src)@p1
+|	
+	__get_user(exp1, src)@p1
+|
+	copy_from_user(exp1, (T1)src, size1)@p1
+|
+	copy_from_user(exp1, src, size1)@p1
+|
+	__copy_from_user(exp1, (T1)src, size1)@p1
+|
+	__copy_from_user(exp1, src, size1)@p1

@@ -1,0 +1,110 @@
+No.1 File: 
+testdir/linux-4.14.10/arch/powerpc/platforms/powernv/opal-prd.c
+--first fetch: line 238
+--second fetch: line 244
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/hid/uhid.c
+--first fetch: line 407
+--second fetch: line 455
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/3w-xxxx.c
+--first fetch: line 898
+--second fetch: line 920
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/3w-sas.c
+--first fetch: line 739
+--second fetch: line 761
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/scsi/3w-9xxx.c
+--first fetch: line 666
+--second fetch: line 688
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/md/dm-ioctl.c
+--first fetch: line 1730
+--second fetch: line 1764
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/lustre/lustre/llite/llite_lib.c
+--first fetch: line 2463
+--second fetch: line 2478
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/lustre/lustre/llite/dir.c
+--first fetch: line 1485
+--second fetch: line 1504
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/lustre/lustre/obdclass/linux/linux-module.c
+--first fetch: line 157
+--second fetch: line 191
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/lustre/lnet/libcfs/linux/linux-module.c
+--first fetch: line 127
+--second fetch: line 152
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/staging/rtl8712/rtl871x_ioctl_linux.c
+--first fetch: line 1829
+--second fetch: line 1834
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/platform/chrome/cros_ec_dev.c
+--first fetch: line 175
+--second fetch: line 187
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/vfio/vfio_spapr_eeh.c
+--first fetch: line 55
+--second fetch: line 92
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/acpi/custom_method.c
+--first fetch: line 37
+--second fetch: line 54
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/drivers/hwtracing/stm/core.c
+--first fetch: line 566
+--second fetch: line 580
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/lib/test_kasan.c
+--first fetch: line 429
+--second fetch: line 447
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/mm/util.c
+--first fetch: line 187
+--second fetch: line 195
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/fs/autofs4/dev-ioctl.c
+--first fetch: line 100
+--second fetch: line 109
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/fs/ioctl.c
+--first fetch: line 586
+--second fetch: line 597
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/decnet/af_decnet.c
+--first fetch: line 1531
+--second fetch: line 1588
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/sunrpc/sysctl.c
+--first fetch: line 95
+--second fetch: line 102
+-------------------------------
+No.1 File: 
+testdir/linux-4.14.10/net/tls/tls_main.c
+--first fetch: line 351
+--second fetch: line 379
+-------------------------------
